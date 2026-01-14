@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="../show_pic/logo_120.png">
+	<img alt="logo" src="../main/show_pic/logo_120.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">AI-Quantrade</h1>
 <h4 align="center">AI-Quantrade 是一个基于 FastAPI 构建的智能量化交易辅助平台，融合 AI 资讯分析与多策略支持，面向用户提供从策略研发到实盘部署的一体化解决方案。</h4>
@@ -108,16 +108,16 @@ ___
 
 <table>
     <tr>
-        <td><img src="../show_pic/admin_login.png"/></td>
-        <td><img src="../show_pic/admin_perm.png"/></td>
+        <td><img src="../main/show_pic/admin_login.png"/></td>
+        <td><img src="../main/show_pic/admin_perm.png"/></td>
     </tr>
     <tr>
-        <td><img src="../show_pic/front_login_zh.png"/></td>
-        <td><img src="../show_pic/front_login_en.png"/></td>
+        <td><img src="../main/show_pic/front_login_zh.png"/></td>
+        <td><img src="../main/show_pic/front_login_en.png"/></td>
     </tr>
     <tr>
-        <td><img src="../show_pic/front_uc_zh.png"/></td>
-        <td><img src="../show_pic/front_uc_en.png"/></td>
+        <td><img src="../main/show_pic/front_uc_zh.png"/></td>
+        <td><img src="../main/show_pic/front_uc_en.png"/></td>
     </tr>
 </table>
 
